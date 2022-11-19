@@ -13,7 +13,7 @@
 </div>
 
 <div style="display: inline_block"><br>  
-<a href="www.linkedin.com/in/levi-wesley-paz"><img src ="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+<a href="[www.linkedin.com/in/levi-wesley-paz](https://www.linkedin.com/in/levi-wesley-paz/)" target="_blank"><img src ="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
 <img src = "https://img.shields.io/badge/Zorin%20OS-0CC1F3?style=for-the-badge&logo=zorin&logoColor=white">
 </div>
  
