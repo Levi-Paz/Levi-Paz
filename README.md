@@ -14,8 +14,7 @@
 
 <div style="display: inline_block"><br>  
 <a href="https://www.linkedin.com/in/levi-wesley-paz/" target="_blank"><img src ="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
-<img src = "https://img.shields.io/badge/Zorin%20OS-0CC1F3?style=for-the-badge&logo=zorin&logoColor=white">
-</div>
+<a href="https://zorin.com/os/" target="_blank"><img src = "https://img.shields.io/badge/Zorin%20OS-0CC1F3?style=for-the-badge&logo=zorin&logoColor=white"></a></div>
  
  
 
