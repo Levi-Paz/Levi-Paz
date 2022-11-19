@@ -1,23 +1,20 @@
 ### Nesse local eu colocaria informações pessoais que poderiam favorecer um futuro sequestro
 
-<div>
+<div style="display: inline_block">
 
-<img height=180cm src="https://github-readme-stats.vercel.app/api?username=Levi-Paz&show_icons=true&theme=gotham">
-<img height=180cm src="https://github-readme-stats.vercel.app/api/top-langs/?username=Levi-Paz&layout=compact&theme=gotham">
+<img height=165cm src="https://github-readme-stats.vercel.app/api?username=Levi-Paz&show_icons=true&theme=gotham">
+<img height=165cm src="https://github-readme-stats.vercel.app/api/top-langs/?username=Levi-Paz&layout=compact&theme=gotham">
 </div>
 
 <hr>
 
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Levi-Paz&repo=github-readme-stats)](https://github.com/Levi-Paz/github-readme-stats)
-
-
-
-
 
 <div style="display: inline_block"><br>
+
 <a href=www.linkedin.com/in/levi-wesley-paz>
-<img src = "https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
+    <img src = "https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
+</a>
 <img src = "https://img.shields.io/badge/Zorin%20OS-0CC1F3?style=for-the-badge&logo=zorin&logoColor=white">
 </div>
 <!--
