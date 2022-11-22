@@ -1,7 +1,10 @@
 <div style="display: inline_block">
 
 <img src="https://github-readme-stats.vercel.app/api?username=Levi-Paz&show_icons=true&theme=gotham&card_width=550px">
-
+ 
+<!--
+CARTAO DE VISITA
+<a href="https://github.com/Levi-Paz" target="_blank" rel="noopener noreferrer"><img src="https://crd.so/i/Levi-Paz?dark&removeLink" alt="Levi-Paz’s GitHub image" width="600" height="314" /> -->
 </div>
 
 <hr>
@@ -10,7 +13,7 @@
 <img align="center" alt="levs-mysql" height="30" widht="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-plain.svg"/>
 <img align="center" alt="levs-html5" height="30" widht="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg"/>
 <img align="center" alt="levs-css3" height="30" widht="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg"/>
- <img align="center" alt="levs-css3" height="30" widht="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"/>
+<img align="center" alt="levs-css3" height="30" widht="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"/>
 </div>
 
 <div style="display: inline_block"><br>  
