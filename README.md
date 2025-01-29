@@ -1,10 +1,11 @@
 <div style="display: inline_block">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Levi-Paz&show_icons=true&theme=gotham&card_width=550px">
+<img src="https://github-readme-stats.vercel.app/api?username=Levi-Paz&show_icons=true&theme=shadow_red&card_width=550px">
  
 <!--
 CARTAO DE VISITA
 <a href="https://github.com/Levi-Paz" target="_blank" rel="noopener noreferrer"><img src="https://crd.so/i/Levi-Paz?dark&removeLink" alt="Levi-Paz’s GitHub image" width="600" height="314" /> -->
+<a href="https://github.com/Levi-Paz" target="_blank" rel="noopener noreferrer"><img src="https://crd.so/i/Levi-Paz?dark&removeLink" alt="Levi-Paz’s GitHub image" width="600" height="314" />
 </div>
 
 <hr>
@@ -19,8 +20,6 @@ CARTAO DE VISITA
 <div style="display: inline_block"><br>  
 <a href="https://www.linkedin.com/in/levi-wesley-paz/" target="_blank"><img src ="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
 <a href="https://zorin.com/os/" target="_blank"><img src = "https://img.shields.io/badge/Zorin%20OS-0CC1F3?style=for-the-badge&logo=zorin&logoColor=white"></a></div>
-
-<img height=175cm src="https://github-readme-stats.vercel.app/api/top-langs/?username=Levi-Paz&layout=compact&theme=gotham">
 
 
 <!--
