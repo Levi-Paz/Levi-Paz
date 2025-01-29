@@ -1,6 +1,6 @@
 <div style="display: inline_block">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Levi-Paz&show_icons=true&theme=shadow_red&card_width=550px">
+<img src="https://github-readme-stats.vercel.app/api?username=Levi-Paz&show_icons=true&theme=transparent&card_width=550px">
  
 <!--
 CARTAO DE VISITA
