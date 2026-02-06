@@ -10,6 +10,7 @@ Atualmente, combino minha experiência técnica em desenvolvimento de APIs e RPA
 
 - 🎓 Graduando em **Ciência de Dados** (Anhanguera Educacional).
 - 💼 Tenho experiência sólida com **APIs RESTful** (FastAPI/Flask) e **Automação de Processos (RPA)**.
+- 📊 Atuei como Analista de Sistemas, lidando com chamados de backoffice (financeiro, fiscal, RH, suprimentos), garantindo suporte e soluções para serviços essenciais como NFS (Nota Fiscal de Serviço), NFE (Nota Fiscal Eletrônica) e CTE (Conhecimento de Transporte Eletrônico).
 - 🛠️ Foco em **Boas Práticas**, **Arquitetura Limpa** e **Performance**.
 - 📍 Moro em **Fortaleza, Ceará, Brasil**.
 
