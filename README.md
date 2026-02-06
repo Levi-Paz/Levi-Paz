@@ -79,7 +79,7 @@ Estou interessado em projetos que envolvam:
 - **Engenharia e Análise de Dados:** Transformação de dados brutos em insights.
 - **Backend Robusto:** Criação de microsserviços e APIs performáticas.
 - **Automação Inteligente:** Uso de scripts para eliminar tarefas manuais repetitivas.
-
+- **Analista de Sistemas:** Levantamento de requisitos, desenho de soluções e integração entre diferentes sistemas para garantir fluidez e confiabilidade nos processos.
 ---
 
 ### 📫 Contato
